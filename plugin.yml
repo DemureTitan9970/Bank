@@ -1,0 +1,11 @@
+name: Banka
+main: BankaUI\Main
+api: 3.9.4
+version: 1.0
+author: DemureTitan9970
+
+commands:
+  atm:
+    description: Atm Paneli
+  hesapolustur:
+    description: Hesap Oluştur!
